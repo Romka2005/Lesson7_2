@@ -30,7 +30,7 @@ hr{
 }
 .child1_2{
     display: flex;
-    width: 7%;
+    width: 8%;
     height: 90%;
     border: none;
     background: black;
@@ -97,8 +97,7 @@ hr{
     align-items: center;
     width: 100%;
 }
-.child3_1 img{
-    background: rgb(212, 212, 212);
+.avatar{
     width: 70px;
     height: 70px;
     border-radius: 100%;
